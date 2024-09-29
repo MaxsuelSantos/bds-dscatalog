@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'bootstrap/dist/css/bootstrap.css';
+import '@popperjs/core';
+import 'bootstrap/js/dist/collapse';
 import App from './App';
 
 ReactDOM.render(
